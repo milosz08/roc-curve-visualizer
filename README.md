@@ -18,7 +18,7 @@ To get started with program, click the `Generate OB sequence` and `Generate rand
 <a name="author"></a>
 ## Author
 Created by Miłosz Gilga. If you have any questions about the application send message:
-[personal@miloszgilga.pl](mailto:personal@miloszgilga.pl).
+[miloszgilga@gmail.com](mailto:miloszgilga@gmail.com).
 
 ## License
 This program is on GNU-GPL 3.0 license.
